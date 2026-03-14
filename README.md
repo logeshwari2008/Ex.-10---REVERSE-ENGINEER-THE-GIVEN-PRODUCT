@@ -33,7 +33,7 @@
 ## Input:
 
 ### Output:
-Screenshot 2026-03-14 103200.png
+
 
 
 ### Name: LOGESHWARI N
