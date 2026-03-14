@@ -33,7 +33,7 @@
 ## Input:
 
 ### Output:
-"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-03-14 103200 - Copy.png"
+
 
 
 ### Name: LOGESHWARI N
