@@ -32,7 +32,15 @@
 
 ## Input:
 
+![Output](chair.png)
+
 ### Output:
+
+![Output](chair1.png)
+
+![Output](chair2.png)
+
+
 
 
 
